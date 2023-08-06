@@ -1,0 +1,1 @@
+from .parser import db_of_news
